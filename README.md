@@ -1,4 +1,4 @@
 # effies
 website
 
-Link
+Website link: https://effiest.github.io/effies/
